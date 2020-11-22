@@ -1,0 +1,36 @@
+{
+  "name": "wildscript",
+  "version": "1.0.0",
+  "description": "This is Siddhant's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Test Successful!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhantvinchurkar/wildscript.git"
+  },
+  "keywords": [
+    "siddhant",
+    "vinchurkar",
+    "tech",
+    "wild",
+    "script",
+    "wildscript",
+    "portfolio",
+    "full",
+    "stack",
+    "developer",
+    "web",
+    "android",
+    "profile",
+    "hello",
+    "world"
+  ],
+  "author": "Siddhant Vinchurkar",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/siddhantvinchurkar/wildscript/issues"
+  },
+  "homepage": "https://github.com/siddhantvinchurkar/wildscript#readme"
+}
