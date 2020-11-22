@@ -1,0 +1,56 @@
+{
+  "short_name": "WST",
+  "name": "Wildscript",
+  "icons": [
+    {
+      "src": "/images/icons/logo/square/favicon_48.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/logo/square/favicon_72.png",
+      "type": "image/png",
+      "sizes": "72x72",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/logo/square/favicon_96.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/logo/square/favicon_144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/logo/square/favicon_192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/logo/favicon_512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/logo/favicon_maskable_512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#008000",
+  "start_url": "https://wildscript.tech/",
+  "manifest_version": 2,
+  "version": "1.0",
+  "summary": "This is Siddhant's Portfolio"
+}
