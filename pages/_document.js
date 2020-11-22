@@ -21,21 +21,6 @@ export default class MyDocument extends Document {
             href="https://www.googletagmanager.com"
             crossOrigin="true"
           />
-          <link
-            rel="preconnect"
-            href="https://storage.googleapis.com"
-            crossOrigin="true"
-          />
-          <link
-            rel="preconnect"
-            href="https://firebaseinstallations.googleapis.com"
-            crossOrigin="true"
-          />
-          <link
-            rel="preconnect"
-            href="https://fonts.googleapis.com/"
-            crossOrigin="true"
-          />
 
           {/* Basic website information */}
 
@@ -86,6 +71,12 @@ export default class MyDocument extends Document {
             href="/images/icons/logo/circle/favicon_192.png"
           />
           <link rel="manifest" href="/manifest.json" />
+          <link
+            type="text/css"
+            rel="stylesheet"
+            href="/fonts/ubuntu.css"
+            media="screen,projection"
+          />
           <link
             type="text/css"
             rel="stylesheet"
