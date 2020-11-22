@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { ThemeProvider } from "@material-ui/core/styles";
 import CssBaseline from "@material-ui/core/CssBaseline";
-import Theme from "../components/Theme.js";
+import Theme from "../components/layout-components/Theme.js";
 
 export default function BeegruDesignMui(props) {
   const { Component, pageProps } = props;
