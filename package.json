@@ -44,7 +44,7 @@
     "@reduxjs/toolkit": "^1.4.0",
     "babel-plugin-styled-components": "^1.11.1",
     "material-ui": "^0.20.2",
-    "next": "^10.0.0",
+    "next": "^11.1.3",
     "next-useragent": "^2.3.1",
     "node-fetch": "^3.0.0-beta.9",
     "node-forge": "^0.10.0",
